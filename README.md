@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aanand Patil</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **calendar**
+- 🔭 I’m currently working on **Calendar App**
 
 - 🌱 I’m currently learning **Nextjs**
 
